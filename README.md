@@ -193,6 +193,8 @@ List of resources I find helpful and would like to give credit to. I've included
 * [Django Bootstrap 4 – Integrate Template Example](https://studygyaan.com/django/how-to-integrate-bootstrap-4-template-in-django)
 * [SB Admin 2](https://startbootstrap.com/theme/sb-admin-2)
 * [Django-CRM-Project](https://github.com/studygyaan/Django-CRM-Project)
+* [[FIXED] ( django.core.exceptions.ImproperlyConfigured: Cannot import 'apps.accounts'. Check that 'mysite.apps.accounts.apps.AccountsConfig.name' is correct](https://www.pythonfixing.com/2022/03/fixed-djangocoreexceptionsimproperlycon.html)
+* [Changed import structure in Django 3.2?](https://stackoverflow.com/questions/66970791/changed-import-structure-in-django-3-2)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
