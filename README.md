@@ -22,23 +22,23 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/potlitel/DjangoTailwindcssTemplate">
+  <a href="https://github.com/potlitel/CRM-DjangoBootstrap">
     <img src="images/django-logo-big-1.jpeg" alt="Logo" width="140" height="100">
   </a>
 
-<h3 align="center">Tailwindcss template - Django</h3>
+<h3 align="center">CRM-DjangoBootstrap - Django</h3>
 
 <p align="center">
     project_description
     <br />
-    <a href="https://github.com/potlitel/DjangoTailwindcssTemplate"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/potlitel/CRM-DjangoBootstrap"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/potlitel/DjangoTailwindcssTemplate">View Demo</a>
+    <a href="https://github.com/potlitel/CRM-DjangoBootstrap">View Demo</a>
     ·
-    <a href="https://github.com/potlitel/DjangoTailwindcssTemplate">Report Bug</a>
+    <a href="https://github.com/potlitel/CRM-DjangoBootstrap">Report Bug</a>
     ·
-    <a href="https://github.com/potlitel/DjangoTailwindcssTemplate/issues">Request Feature</a>
+    <a href="https://github.com/potlitel/CRM-DjangoBootstrap/issues">Request Feature</a>
   </p>
 </div>
 
@@ -110,7 +110,7 @@ This repo is a rich clone of [Creating a REST Web API in C# with ASP.NET Core 5.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/potlitel/DjangoTailwindcssTemplate.git
+   git clone https://github.com/potlitel/CRM-DjangoBootstrap.git
    ```
 2. Install NPM packages
    ```sh
@@ -177,7 +177,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Your Name - [@twitter_handle](https://twitter.com/potlitel) - potlitel@gmail.com
 
-Project Link: [https://github.com/potlitel/DjangoTailwindcssTemplate](https://github.com/potlitel/DjangoTailwindcssTemplate)
+Project Link: [https://github.com/potlitel/CRM-DjangoBootstrap](https://github.com/potlitel/CRM-DjangoBootstrap)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
